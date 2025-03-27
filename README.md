@@ -52,7 +52,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/root3301/lexgen.git
+git clone [https://github.com/root3301/lexgen.git](https://github.com/Rooot3301/LexGen.git)
 
 # Navigate to the directory
 cd lexgen
